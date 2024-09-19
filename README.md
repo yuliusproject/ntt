@@ -1,0 +1,2 @@
+# ntt
+Portofolio yang bisa
